@@ -46,3 +46,15 @@ CoreKeeper.info is more than just a wiki; it's a living, breathing guide that ev
 Whether you're looking to defeat a challenging boss, optimize your resource gathering, or simply immerse yourself in the rich lore of Core Keeper, CoreKeeper.info is your trusted companion in the depths.
 
 Grab your pickaxe, light your torch, and join us as we delve into the fascinating world of Core Keeper. Your next great discovery awaits!
+
+## Resources
+
+<!-- - [Core Keeper Wiki](https://corekeeper.fandom.com/wiki/Core_Keeper_Wiki)
+- [Core Keeper Modding](https://corekeeper.fandom.com/wiki/Modding)
+- [Core Keeper Discord](https://discord.gg/corekeeper)
+- [Core Keeper Reddit](https://www.reddit.com/r/corekeeper/)
+- [Core Keeper Subreddit](https://www.reddit.com/r/corekeeper/)
+- [Core Keeper Subreddit](https://www.reddit.com/r/corekeeper/) -->
+- [@github](https://github.com/corekeeperfans/corekeeper.info)
+- [@gitbook](https://corekeeperfanss-organization.gitbook.io/corekeeper)
+
