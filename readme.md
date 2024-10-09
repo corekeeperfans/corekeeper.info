@@ -57,4 +57,5 @@ Grab your pickaxe, light your torch, and join us as we delve into the fascinatin
 - [Core Keeper Subreddit](https://www.reddit.com/r/corekeeper/) -->
 - [@github](https://github.com/corekeeperfans/corekeeper.info)
 - [@gitbook](https://corekeeperfanss-organization.gitbook.io/corekeeper)
+- [Unearthing Adventure in the Depths](https://medium.com/@corekeeperfans/core-keeper-unearthing-adventure-in-the-depths-8e95d69a8b06)
 
