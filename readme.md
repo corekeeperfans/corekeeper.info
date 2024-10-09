@@ -57,6 +57,8 @@ Grab your pickaxe, light your torch, and join us as we delve into the fascinatin
 - [Core Keeper Subreddit](https://www.reddit.com/r/corekeeper/) -->
 - [@github](https://github.com/corekeeperfans/corekeeper.info)
 - [@gitbook](https://corekeeperfanss-organization.gitbook.io/corekeeper)
+- [@Startuplister](https://startuplister.com/single/core-keeper-wiki)
+
 - [Unearthing Adventure in the Depths](https://medium.com/@corekeeperfans/core-keeper-unearthing-adventure-in-the-depths-8e95d69a8b06)
 - [Mining the Depths of Adventure](https://corekeeperfans.substack.com/p/core-keeper-mining-the-depths-of)
 - [Exploring the Depths of Core Keeper](https://core-keeper.beehiiv.com/p/exploring-the-depths-of-core-keeper-a-dive-into-the-indie-gem)
